@@ -1,4 +1,4 @@
-#@ish_reja_uz kanali uchun yordamchi bot
+#ish_reja_uz kanali uchun yordamchi bot
 
 Loyiha nomi: Test Bot.
 
